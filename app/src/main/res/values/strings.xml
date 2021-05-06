@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MeuSalario</string>
+    <string name="calculadora_de_salario_l_quido">Calculadora de Salario Líquido</string>
+    <string name="sal_rio_bruto_rs">Salário Bruto RS</string>
+    <string name="numero_de_dependentes">Numero de Dependentes</string>
+    <string name="outros_descontos">Outros Descontos</string>
+    <string name="calcular">Calcular</string>
+    <string name="Resultado">Resultado</string>
+    <string name="IRFF">IRFF</string>
+    <string name="sal_rio_l_quido">Salário Líquido</string>
+    <string name="descontos">Descontos</string>
+    <string name="voltar">Voltar</string>
+    <string name="inss">INSS</string>
+</resources>
